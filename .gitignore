@@ -1,0 +1,17 @@
+# Original datasets
+data/
+*.csv
+*.tsv
+*.xlsx
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
